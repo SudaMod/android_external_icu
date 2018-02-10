@@ -64,7 +64,7 @@
 # if U_PLATFORM == U_PF_CYGWIN
 #   include <locale.h>
 # else
-#   include <xlocale.h>
+#   include <locale.h>
 # endif
 #endif
 
