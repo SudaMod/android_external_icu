@@ -947,48 +947,6 @@ zh{
             south{"南纬{0}"}
             west{"西经{0}"}
         }
-        digital{
-            bit{
-                dnam{"比特"}
-                other{"{0}比特"}
-            }
-            byte{
-                dnam{"字节"}
-                other{"{0}字节"}
-            }
-            gigabit{
-                dnam{"吉比特"}
-                other{"{0}吉比特"}
-            }
-            gigabyte{
-                dnam{"吉字节"}
-                other{"{0}吉字节"}
-            }
-            kilobit{
-                dnam{"千比特"}
-                other{"{0}千比特"}
-            }
-            kilobyte{
-                dnam{"千字节"}
-                other{"{0}千字节"}
-            }
-            megabit{
-                dnam{"兆比特"}
-                other{"{0}兆比特"}
-            }
-            megabyte{
-                dnam{"兆字节"}
-                other{"{0}兆字节"}
-            }
-            terabit{
-                dnam{"太比特"}
-                other{"{0}太比特"}
-            }
-            terabyte{
-                dnam{"太字节"}
-                other{"{0}太字节"}
-            }
-        }
         duration{
             century{
                 dnam{"世纪"}
